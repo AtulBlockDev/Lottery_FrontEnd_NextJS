@@ -17,10 +17,8 @@ export default function Home() {
       </Head>
       <Header/>
       <LotteryEntrance/>
-      <main className={styles.main}>
-        <div className={styles.description}>
-        Hello, Welcome to Raffle.
-        </div>
+      <main>
+        
       </main>
     </>
   )
